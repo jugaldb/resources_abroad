@@ -43,7 +43,6 @@
 ## Important Notes
 - Timeline should be adjusted based on specific program deadlines
 - Some programs may have earlier deadlines for funding consideration
-- International students may need additional time for document preparation
 - Check university websites regularly for updates
 - Consider time zones for online meetings and deadlines
 - Keep emergency contact information handy
