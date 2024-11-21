@@ -1,9 +1,12 @@
+# All my free resources (Resume, SOP, LOR, tracker) 
+[Freebies](https://jugaldbx.gumroad.com/)
+
 
 # 6-Month (24 Weeks) Masters Application Roadmap
 
 | Week | Heading | Action | Resources |
 |------|---------|--------|-----------|
-| **Week 1** | Starting GRE Prep + Researching universities | <br>- Focus on Quantitative Reasoning.<br>- Take a diagnostic test to identify weak areas.<br>- Begin researching universities based on your goals. | [ETS Official GRE Practice Tests](https://www.ets.org/gre/revised_general/prepare/)<br>[YouTube](https://yt.openinapp.co/co92l)|
+| **Week 1** | Starting GRE Prep + Researching universities | <br>- Focus on Quantitative Reasoning.<br>- Take a diagnostic test to identify weak areas.<br>- Begin researching universities based on your goals. | [ETS Official GRE Practice Tests](https://www.ets.org/gre/revised_general/prepare/)<br>[YouTube](https://yt.openinapp.co/co92l) <br> [Search universities](https://www.reddit.com/r/gradadmissions/)|
 | **Week 2** | Focusing on GRE Verbal + research professors and research groups | Continue GRE Prep:<br>- Work on Verbal Reasoning (vocabulary and reading comprehension).<br><br>Start researching professors whose research aligns with your interests. | [Magoosh GRE Verbal Prep](https://gre.magoosh.com/)<br>[YouTube](https://yt.openinapp.co/xp99t)<br> University website directory|
 | **Week 3** | Writing Practice + Reach out to professors | GRE Analytical Writing Prep:<br>Practice Issue and Argument essays.<br><br>Draft and send e-mails to professors. | [ETS GRE Analytical Writing Resources](https://www.ets.org/gre/revised_general/prepare/analytical_writing/)<br>[Purdue OWL Writing Lab](https://owl.purdue.edu/) |
 | **Week 4** | First GRE Test + Refine universities | Take your first full-length GRE practice test.<br><br>Refine your list of target universities based on your practice scores. | [PowerPrep Online Tests](https://www.ets.org/gre/revised_general/prepare/powerprep/)<br><br>[Reddit](https://www.reddit.com/r/gradadmissions/) |
