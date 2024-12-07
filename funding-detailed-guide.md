@@ -2,6 +2,11 @@
 
 Now that you're admitted, your funding strategy should be focused and targeted. This guide provides detailed breakdowns for the three main funding sources: Teaching Assistantships (TA), Research Assistantships (RA), and Scholarships. Each table includes specific action items, timelines, and insider tips from successful international students.
 
+
+All my FREE e-mail and other templates are present here: https://jugaldbx.gumroad.com/
+
+
+
 ## Teaching Assistantship (TA) Strategy
 
 | Aspect | Details | Timeline | Action Items |
@@ -28,7 +33,7 @@ Now that you're admitted, your funding strategy should be focused and targeted. 
 |------|------------------|---------------------|------|
 | Department Scholarships | - Merit-based awards<br>- Need-based grants<br>- Special focus areas<br>- Travel grants | - Check department website<br>- Contact graduate coordinator<br>- Submit required essays | - Meet all deadlines<br>- Highlight academic achievements<br>- Get faculty recommendations |
 | University-Wide | - International student grants<br>- Diversity scholarships<br>- Emergency funds<br>- Special talent awards | - Visit financial aid office<br>- Check university scholarship portal<br>- Submit FAFSA if applicable | - Apply to multiple opportunities<br>- Keep documents updated<br>- Follow up regularly |
-| External Organizations | - Professional associations<br>- Cultural organizations<br>- Corporate sponsors<br>- Foundation grants | - Research opportunities on:<br>  * [Fastweb](https://www.fastweb.com)<br>  * [Scholarships.com](https://www.scholarships.com)<br>  * [International Education Financial Aid](https://www.iefa.org) | - Create strong essays<br>- Get multiple recommendations<br>- Apply year-round |
+| External Organizations | - Professional associations<br>- Cultural organizations<br>- Corporate sponsors<br>- Foundation grants | - Research opportunities on:<br>* [MOS](mos.com) <br>  * [Fastweb](https://www.fastweb.com)<br>  * [Scholarships.com](https://www.scholarships.com)<br>  * [International Education Financial Aid](https://www.iefa.org) | - Create strong essays<br>- Get multiple recommendations<br>- Apply year-round |
 | Conference Funding | - Travel grants<br>- Presentation awards<br>- Research showcase funds | - Check conference websites<br>- Apply through department<br>- Contact professional societies | - Submit strong abstracts<br>- Meet early deadlines<br>- Network at events |
 
 ## Key Success Factors
