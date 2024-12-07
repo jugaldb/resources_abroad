@@ -3,6 +3,8 @@
 Now that you're admitted, your funding strategy should be focused and targeted. This guide provides detailed breakdowns for the three main funding sources: Teaching Assistantships (TA), Research Assistantships (RA), and Scholarships. Each table includes specific action items, timelines, and insider tips from successful international students.
 
 
+Full video guide: https://yt.openinapp.co/ho9l9
+
 All my FREE e-mail and other templates are present here: https://jugaldbx.gumroad.com/
 
 
