@@ -1,6 +1,6 @@
 # Detailed Funding Guide for Admitted International Students
 
-Congratulations on your admission! Now that you're admitted, your funding strategy should be focused and targeted. This guide provides detailed breakdowns for the three main funding sources: Teaching Assistantships (TA), Research Assistantships (RA), and Scholarships. Each table includes specific action items, timelines, and insider tips from successful international students.
+Now that you're admitted, your funding strategy should be focused and targeted. This guide provides detailed breakdowns for the three main funding sources: Teaching Assistantships (TA), Research Assistantships (RA), and Scholarships. Each table includes specific action items, timelines, and insider tips from successful international students.
 
 ## Teaching Assistantship (TA) Strategy
 
