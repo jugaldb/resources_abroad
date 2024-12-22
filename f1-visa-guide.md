@@ -9,7 +9,7 @@
 | I-901 SEVIS | Student Exchange Visitor Information System Fee | [SEVIS Fee Payment](https://www.fmjfee.com/) |
 | Visa Photo | US Visa Photograph Requirements | [Photo Requirements](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos.html) |
 
-## Document Preparation Matrix
+## Document Preparation
 
 ### Primary Documents
 
@@ -29,13 +29,22 @@
 
 ## Visa Interview Preparation
 
-### Common Questions Matrix
+### Common Questions
 
 | Category | Question | Sample Answer | Tips |
 |----------|-----------|---------------|------|
 | Academic Goals | "Why this university?" | "I chose [University] for its renowned [Program] and research opportunities in [Specific Field]." | - Research faculty<br>- Know department ranking |
+| Program Choice | "Why did you choose this specific program?" | "This program offers specialized courses in [Specific Courses] which align perfectly with my career goals in [Industry/Field]." | - Study program curriculum<br>- Be specific about courses |
+| University Research | "Did you apply to other universities?" | "Yes, I was accepted to [Universities], but chose [Current University] because of its strong [Program Features] and research opportunities." | - Be honest about choices<br>- Explain logical decision |
+| Academic Background | "How does your previous education prepare you for this program?" | "My undergraduate degree in [Field] provided strong fundamentals in [Subjects], which are crucial for advanced study in [Program]." | - Connect past to future<br>- Highlight relevant coursework |
 | Career Plans | "Plans after graduation?" | "I plan to gain practical experience through OPT and return to contribute to India's growing [Industry]." | - Be clear about return plans<br>- Show home country ties |
 | Financial Status | "How will you fund studies?" | "Through a combination of family savings ($X) and education loan ($Y) from [Bank]." | - Know exact amounts<br>- Have documents ready |
+| Work Experience | "Tell me about your work experience." | "I worked as [Position] at [Company] for [Duration], where I gained valuable experience in [Skills]. This experience motivated me to pursue advanced studies." | - Highlight relevant skills<br>- Connect to study plans |
+| Family Ties | "What does your family do?" | "My father works as [Profession] at [Company], and my mother is [Profession]. They fully support my education plans." | - Show strong home ties<br>- Demonstrate family support |
+| Future Goals | "Where do you see yourself in 5 years?" | "After completing my studies and gaining some practical experience, I plan to return to India and [Specific Career Goal] in the growing [Industry] sector." | - Be realistic<br>- Show clear planning |
+| Living Arrangements | "Where will you live in the US?" | "I have arranged housing at [University Housing/Address] near campus. The university has helped me with accommodation details." | - Have specific address<br>- Know housing costs |
+| Research Interest | "What specific research areas interest you?" | "I'm particularly interested in [Professor's] research on [Topic], which aligns with my background in [Previous Experience/Study]." | - Research faculty work<br>- Show genuine interest |
+| Course Selection | "Have you looked at the specific courses you'll take?" | "Yes, I plan to take [Core Courses] in my first semester, followed by specialized courses in [Advanced Topics] that align with my career goals." | - Study course catalog<br>- Have semester plan ready |
 
 ## Port of Entry (POE) Guidelines
 
