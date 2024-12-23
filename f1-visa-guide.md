@@ -1,5 +1,8 @@
 # F-1 Student Visa Guide for Indian Students
 
+
+## Disclaimer: Consult with other resources before finalising everything, these are my thoughts, and the guide that I personally used to secure my visa, your mileage may vary.
+
 ## Essential Forms and Sample Links
 
 | Document | Description | Sample/Link |
