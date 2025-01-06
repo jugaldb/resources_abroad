@@ -1,5 +1,12 @@
 # Strategic 3-Month Internship Search Roadmap for International Students
 
+## Essential Resources
+- [Resume Improvement Guide](https://docs.google.com/document/d/1UxR3vH8h9sI-26axKltXI-qMS8tdogNM_urBbt88tm0/edit?tab=t.0#heading=h.zco1hzrgqrt8)
+- [LinkedIn Message Templates](https://docs.google.com/document/d/1EqGYacftWNvE1eWlOioeCSsTcXt_P46QIet_ULwnJTc/edit?tab=t.0#heading=h.ectr3fwejbsd)
+- [Common Mistakes to Avoid in Job Search](https://docs.google.com/document/d/1swi8pu0J82kz8yA7TDqYTpwRARUB9BSeKFgqX1w1vfs/edit?tab=t.0#heading=h.p0j5pjvtwzfp)
+- [Creating an Effective Elevator Pitch](https://docs.google.com/document/d/1VoTJOvjfRns70acsOZ2lD-MTgtT2skPQuDGWO58F9kc/edit?tab=t.0#heading=h.67cf16b6u82v)
+
+
 | Weeks | Action Items | Resources & Tools |
 |-------|--------------|-------------------|
 | Week 1-2 | • Create an ATS-optimized resume with clear achievements and metrics<br>• Set up a professional LinkedIn profile with a compelling summary<br>• Create a simple portfolio website<br>• Make initial connections with alumni and people from target companies (10-15/day)<br>• Join relevant professional Discord and Slack communities | • [Scale.jobs](https://scale.jobs) for ATS optimization<br>• [Wix](https://wix.com) / [GitHub Pages](https://pages.github.com) for portfolio<br>• [LinkedIn Alumni Tool](https://www.linkedin.com/school)<br>• [Rezi Resume Builder](https://rezi.ai)<br>• [Tech Slack Communities List](https://github.com/designertype/tech-slack-communities) |
