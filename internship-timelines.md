@@ -1,6 +1,6 @@
-# Historical Hiring timelines
+# Company wise hiring timelines
 
-This data is not the current one and is subjected to change, this is based upon historical timelines and might not be accurate, please do check on the website via the links mentioned.
+This data is not the current one and is subjected to change, this is based upon historical timelines and might not be accurate, please do check on the website via the links mentioned. These are all different internship positions at different companies, make sure you look at the relevant roles
 
 | Company | Role | Category | Website | Timeline Start | Timeline End |
 |---------|------|----------|---------|----------------|--------------|
