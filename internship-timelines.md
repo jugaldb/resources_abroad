@@ -39,13 +39,11 @@ This data is not the current one and is subjected to change, this is based upon 
 
 
 
-# 📚 Essential Resources
-
-- 📄 Resume Improvement Guide
-- 💬 LinkedIn Message Templates
-- ❌ Common Mistakes to Avoid in Job Search
-- 🎤 Creating an Effective Elevator Pitch
-
+## 📚 Essential Resources
+- [📄 Resume Improvement Guide](https://docs.google.com/document/d/1UxR3vH8h9sI-26axKltXI-qMS8tdogNM_urBbt88tm0/edit?tab=t.0#heading=h.zco1hzrgqrt8)
+- [💬 LinkedIn Message Templates](https://docs.google.com/document/d/1EqGYacftWNvE1eWlOioeCSsTcXt_P46QIet_ULwnJTc/edit?tab=t.0#heading=h.ectr3fwejbsd)
+- [❌ Common Mistakes to Avoid in Job Search](https://docs.google.com/document/d/1swi8pu0J82kz8yA7TDqYTpwRARUB9BSeKFgqX1w1vfs/edit?tab=t.0#heading=h.p0j5pjvtwzfp)
+- [🎤 Creating an Effective Elevator Pitch](https://docs.google.com/document/d/1VoTJOvjfRns70acsOZ2lD-MTgtT2skPQuDGWO58F9kc/edit?tab=t.0#heading=h.67cf16b6u82v)
 
 ## Full resource and roadmap to getting an internship in 2025
 [Link to main roadmap](https://github.com/jugaldb/resources_abroad/blob/master/internship-roadmap.md)
