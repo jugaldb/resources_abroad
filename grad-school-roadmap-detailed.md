@@ -1,5 +1,5 @@
 # All my free resources (Resume, SOP, LOR, tracker) 
-[Freebies](https://jugaldbx.gumroad.com/)
+[Freebies](https://jugaldb.notion.site/)
 
 
 # 6-Month (24 Weeks) Masters Application Roadmap
