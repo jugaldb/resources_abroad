@@ -1,6 +1,7 @@
 # 🌟 Strategic 3-Month Internship Search Roadmap for International Students 🌍
 
 ## 📚 Essential Resources
+- [!!!!! Most Comprehensive Notion board containing everything](https://ntn.so/jugalsecondbrain)
 - [📄 Resume Improvement Guide](https://docs.google.com/document/d/1UxR3vH8h9sI-26axKltXI-qMS8tdogNM_urBbt88tm0/edit?tab=t.0#heading=h.zco1hzrgqrt8)
 - [💬 LinkedIn Message Templates](https://docs.google.com/document/d/1EqGYacftWNvE1eWlOioeCSsTcXt_P46QIet_ULwnJTc/edit?tab=t.0#heading=h.ectr3fwejbsd)
 - [❌ Common Mistakes to Avoid in Job Search](https://docs.google.com/document/d/1swi8pu0J82kz8yA7TDqYTpwRARUB9BSeKFgqX1w1vfs/edit?tab=t.0#heading=h.p0j5pjvtwzfp)
